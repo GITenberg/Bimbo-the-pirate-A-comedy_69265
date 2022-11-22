@@ -1,5 +1,8 @@
 _repo: Bimbo-the-pirate-A-comedy_69265
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69265-h/images/cover.jpg
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55188'
     url: http://www.gutenberg.org/2009/agents/55188
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69265#Bimbo-the-pirate-A-comedy
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69265'
